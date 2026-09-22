@@ -276,7 +276,6 @@ export const NewServiceModal: React.FC<NewServiceModalProps> = ({
             >
               Cancelar
             </button>
-
             <button
               type="submit"
               className="px-5 py-2.5 bg-blue-700 hover:bg-blue-800 text-white rounded-xl font-bold shadow-xs transition-all flex items-center gap-1.5"
